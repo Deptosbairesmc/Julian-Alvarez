@@ -98,7 +98,7 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label background="1" bordercolor="0x000000" height="20" border="1" textcolor="0x000000" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" width="180" backgroundalpha="1" enabled="1" borderalpha="1" borderradius="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
-      <hotspot pan="-282.55" skinid="ht_node" id="Living-Comedor" target="" title="" description="" url="" tilt="0.15"/>
+      <hotspot distance="7.32845" pan="-282.55" skinid="ht_node" id="Living-Comedor" target="" title="" description="" url="{node2}" tilt="0.15"/>
       <hotspot distance="9.5164" pan="-107.95" skinid="ht_node" id="Balcon" target="" title="" description="" url="{node1}" tilt="0.45"/>
     </hotspots>
     <media/>
